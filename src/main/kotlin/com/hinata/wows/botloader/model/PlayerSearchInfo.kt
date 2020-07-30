@@ -5,6 +5,7 @@ import com.google.gson.annotations.SerializedName
 
 /**
  * Created by weijinhua on 2020/5/11
+ * Copied by shenlei on 2020/7/30
  */
 data class PlayerSearchInfo(
     @SerializedName("data")
