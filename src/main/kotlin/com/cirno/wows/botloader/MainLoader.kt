@@ -30,6 +30,7 @@ suspend fun main() {
 
     miraiBot.messageDSL()
     miraiBot.join() // 等待 Bot 离线, 避免主线程退出
+    
 }
 
 /**
